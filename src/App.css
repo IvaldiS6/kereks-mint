@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+
+.Logo {
+  background-image: url(./background.png); 
+}
