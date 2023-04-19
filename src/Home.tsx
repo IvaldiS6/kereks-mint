@@ -634,7 +634,7 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: "grey" }}
           >
-            Powered by Kereks Kings
+            Powered by Audheim
           </Typography>
         </Paper>
       </Container>
