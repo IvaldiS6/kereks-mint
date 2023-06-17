@@ -634,7 +634,7 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: "grey" }}
           >
-            Powered by @SecurePy on Twitter, 
+            Powered by @SecurePy on Twitter and ivaldi.dev on Discord, 
           </Typography>
         </Paper>
       </Container>
