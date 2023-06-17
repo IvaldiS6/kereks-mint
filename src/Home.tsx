@@ -634,7 +634,7 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: "grey" }}
           >
-            Powered by Audheim
+            Powered by @SecurePy on Twitter, 
           </Typography>
         </Paper>
       </Container>
